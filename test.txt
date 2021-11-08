@@ -1,2 +1,3 @@
 Hi there
-I am doing a change by adding this line.
+I am doing a change by changing these lines.
+New line added.
